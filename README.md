@@ -20,7 +20,4 @@ Note: Other meathod to open
         -run the app using the command: "streamlit run app.py"
 
 ## Technologies used
-Python
-Pandas
-Scikit-learn
-Streamlit
+Python  Pandas  Scikit-learn  Streamlit
