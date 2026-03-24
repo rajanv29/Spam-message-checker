@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 
-df = pd.read_csv("spam1.csv", encoding='latin-1')
+df = pd.read_csv("dataset.csv", encoding='latin-1')
 vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(df["text"])
 y = df["label"]
