@@ -18,3 +18,9 @@ Note: Other meathod to open
         -Download the zip file from code section.
         -Install the requirements in the terminal.
         -run the app using the command: "streamlit run app.py"
+
+## Technologies used
+Python
+Pandas
+Scikit-learn
+Streamlit
