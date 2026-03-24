@@ -13,3 +13,8 @@ pip install -r requirements.txt
 
 4. Run the app:
 streamlit run app.py
+
+Note: Other meathod to open
+        -Download the zip file from code section.
+        -Install the requirements in the terminal.
+        -run the app using the command: "streamlit run app.py"
