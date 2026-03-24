@@ -1,0 +1,16 @@
+text,label
+"Win money now!!!",spam
+"Limited offer just for you",spam
+"Claim your free prize",spam
+"Meeting at 5 pm",ham
+"Let's have lunch tomorrow",ham
+"Project deadline is tomorrow",ham
+"Congratulations, you won a lottery!",spam
+"Call me when you are free",ham
+"Get cheap loans instantly",spam
+"Are you coming to class?",ham
+"You've won a Car of worth 10000000, Tap the below link to claim it",spam
+"Offer ends soon... Open the below link as soon as possible",spam
+"Meet me at my cabin tomorrow, There's some important thing",ham
+"Meet me at the office as soon as possible",ham
+"Thank you for your purchase. Your order #12345 has been confirmed and will be delivered within 3–5 business days.",ham
